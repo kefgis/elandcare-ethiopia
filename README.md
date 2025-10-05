@@ -1,4 +1,4 @@
-# elandcare-ethiopia
+# eLandCare-Ethiopia
 Your mobile guide to smart Soil and Water Conservation (SWC) in Ethiopia
 
 ## 🔍 Key Features
