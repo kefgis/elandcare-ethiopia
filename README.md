@@ -9,7 +9,9 @@ Contextual: Practices adapted to your land’s conditions
 Strategic: Advanced, long-term interventions
 ### 🌍 Agro-Ecological Zone (AEZ) Explorer
 Automatically detect your AEZ using GPS
+![Figure A: AEZ detected via GPS](docs/figures/EGPSLoc.jpg)
 Or explore any location on an interactive map (works offline after initial load)
+![Figure A: AEZ detected by user on a map](docs/figures/FSearchAEL.jpg)
 ### 📤 Export Results
 Save your inputs and recommendations as a CSV file for planning or sharing
 ### 📱 Fully Offline Functionality
@@ -30,6 +32,8 @@ Option 2: Install from GitHub (APK)
 ### 📄 eLandCare User Manual (PDF)
 Includes:
 - How to get SWC recommendations
+
+  ![Figure A: AEZ detected via GPS](docs/figures/CCriteria.jpg)
 - How to explore AEZs with GPS or map
 - Installation instructions for all user types
 - FAQs and troubleshooting tips
