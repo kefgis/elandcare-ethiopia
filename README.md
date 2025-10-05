@@ -39,6 +39,8 @@ Includes:
 
 ![Figure A: AEZ detected via GPS](docs/figures/CCriteria.jpg)
 
+
+![Figure A: AEZ detected via GPS](docs/figures/DRecomendation.jpg)
 - How to explore AEZs with GPS or map
 - Installation instructions for all user types
 - FAQs and troubleshooting tips
