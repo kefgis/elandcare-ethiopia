@@ -55,7 +55,7 @@ Includes:
 ## 🤝 Acknowledgments
 Developed in collaboration with Ethiopian agricultural experts, based on the Ministry of Agriculture (MOA, 2016) agro-ecological classification.
 ## 🤝 Developed By
-- **Dr. Amare H (PhD). and Dr. Wolde (PhD)** – International Water Management Institute (IWMI), Ethiopia  
-- **Kefyalew Sahle** – GIS & Mobile Application Developer; Expertise in Forestry and Land Use Planning
+- **Dr. A, Dr W** – International X X X (XXXX), Ethiopia  
+- **K S** – GIS & Mobile Application Developer; Expertise in Forestry and Land Use Planning
 ## 📄 License
 This project is licensed under the MIT License – see the LICENSE file for details.
