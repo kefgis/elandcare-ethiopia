@@ -61,7 +61,7 @@ The soil and water conservation decision support tool was developed in collabora
 ## 🤝 Developed By
 •	Initiated  and conceptualized by Amare Haileslassie, Principal Researcher, Agricultural Water Management and Ecosystem Services, International Water Management Institute ( IWMI), and Wolde Mekuria, Senior Researcher, Environment nd Development, IWMI
 •	Developed by: Kefyalew Sahele – GIS & Mobile Application Developer; Expertise in Forestry and Land Use Planning
-## Validated
+## ✅ Validated by
 •	 Fekede Adane and Abinet Mengistu, soil and water conservation expert, Ministry of Agriculture, and Tarku Temesegen, rural development,  Farm Africa  
 ## 📄 License
 This project is licensed under the MIT License – see the LICENSE file for details.
