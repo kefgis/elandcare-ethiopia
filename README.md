@@ -57,9 +57,11 @@ Includes:
 - A: Restart the app. If the problem continues, contact support via the “About This App” section.
 
 ## 🤝 Acknowledgments
-Developed in collaboration with Ethiopian agricultural experts, based on the Ministry of Agriculture (MOA, 2016) agro-ecological classification.
+The soil and water conservation decision support tool was developed in collaboration with the expertise from the Ministry of Agriculture ( MoA) and used many of their resources available as hard copy (e.g. MOA, 2016 agro-ecological classification, soil and water conservation manuals). We are grateful for this.  This tool was developed as part of CGIAR science program Scaling for Impact( S4I)in East and Southern Africa, which is grateful for the support of CGIAR Trust Fund contributors (www.cgiar.org/funders) and Nature-Based Solutions for Inclusive and Sustainable Development (NSSID) funded by Swedish SIDA.
 ## 🤝 Developed By
-- **Dr. A, Dr W** – International X X X (XXXX), Ethiopia  
-- **K S** – GIS & Mobile Application Developer; Expertise in Forestry and Land Use Planning
+•	Initiated  and conceptualized by Amare Haileslassie, Principal Researcher, Agricultural Water Management and Ecosystem Services, International Water Management Institute ( IWMI), and Wolde Mekuria, Senior Researcher, Environment nd Development, IWMI
+•	Developed by: Kefyalew Sahele – GIS & Mobile Application Developer; Expertise in Forestry and Land Use Planning
+## Validated
+•	 Fekede Adane and Abinet Mengistu, soil and water conservation expert, Ministry of Agriculture, and Tarku Temesegen, rural development,  Farm Africa  
 ## 📄 License
 This project is licensed under the MIT License – see the LICENSE file for details.
