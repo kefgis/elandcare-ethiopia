@@ -35,7 +35,7 @@ Option 2: Install from GitHub (APK)
 ## 📚 Documentation
 ### 📄 eLandCare User Manual (PDF)
 Download the PDF file 
-[📖 eLandCare User Manual (PDF)](https://raw.githubusercontent.com/kefgis/YOUR-REPO-NAME/main/eLandCare%20User%20Manual20251005.pdf)
+[📖 eLandCare User Manual (PDF)](main/eLandCare%20User%20Manual20251005.pdf)
 Includes:
 - How to get SWC recommendations
 
