@@ -1,68 +1,55 @@
-# eLandCare-Ethiopia
-Your mobile guide to smart Soil and Water Conservation (SWC) in Ethiopia
+# 🌱 Welcome to eLandCare!
 
-## 🔍 Key Features
-### ✅ Personalized SWC Recommendations
-Get site-specific conservation practices grouped into three practical bundles:
-Foundational: Basic, low-cost measures
-Contextual: Practices adapted to your land’s conditions
-Strategic: Advanced, long-term interventions
-### 🌍 Agro-Ecological Zone (AEZ) Explorer
-Automatically detect your AEZ using GPS
+**Your guide to smart soil and water conservation in Ethiopia.**
 
-![Figure A: AEZ detected via GPS](docs/figures/EGPSLoc.jpg)
+eLandCare is a mobile app designed for professionals in agriculture, forestry, and land management. It provides site-specific recommendations for soil and water conservation based on field observations, helping you make smart choices to enhance productivity and protect natural resources.
 
-Or explore any location on an interactive map (works offline after initial load)
+## 🛠️ Key Features
 
-![Figure A: AEZ detected by user on a map](docs/figures/FSearchAEL.jpg)
+*   **Streamlined Field Data Collection:** Input data on agro-ecology, land use, slope, soil depth, soil type, drainage, and gully presence.
+*   **Ecological Zone Identification:** Use the interactive map tool to identify the Agro-Ecological Zone of your location.
+*   **Automated Conservation Recommendations:** Receive tailored conservation plans based on your specific site conditions.
+*   **Full Offline Functionality:** The app works entirely offline in remote areas. Map data, once downloaded with an internet connection, remains available for offline use.
 
-### 📤 Export Results
-Save your inputs and recommendations as a CSV file for planning or sharing
-### 📱 Fully Offline Functionality
-No internet needed for SWC recommendations—ideal for rural areas
-## 📥 Installation
-Option 1: Google Play Store (Recommended)
-- Open the Google Play Store
-- Search for “eLandCare”
-- Tap Install
-Option 2: Install from GitHub (APK)
-- Go to the Releases page
-- Download the latest .apk file (e.g., eLandCare-v1.0.apk)
-- Enable “Install unknown apps” for your browser (see manual for details)
-- Open the downloaded file and tap Install
-## ℹ️ First-time users: See the User Manual for step-by-step guidance. 
+## 👥 Who Is It For?
 
-## 📚 Documentation
-### 📄 eLandCare User Manual (PDF)
-Download the PDF file 
-[📖 eLandCare User Manual (PDF)](eLandCare%20User%20Manual20251006.pdf)
-Includes:
-- How to get SWC recommendations
+*   Field workers and development agents in agriculture, forestry, and watershed management.
+*   Planners and researchers using spatial data for decision-making.
+*   Educators and students in natural resources and GIS.
+*   Government staff aligning conservation efforts with local priorities.
+*   Policy makers and program leads seeking data-driven guidance.
 
-![Figure A: AEZ detected via GPS](docs/figures/CCriteria.jpg)
+## 🔒 Privacy
 
+We are committed to protecting your privacy.
+*   **No Personal Data Collection:** This app does not collect, store, or transmit any personal data.
+*   **Location Data:** Location is used only to identify your Agro-Ecological Zone on the map and is never stored or shared.
 
-![Figure A: AEZ detected via GPS](docs/figures/DRecomendation.jpg)
-- How to explore AEZs with GPS or map
-- Installation instructions for all user types
-- FAQs and troubleshooting tips
-### ❓ Frequently Asked Questions
-- Q: Do I need internet to use the app?
-- A: Only for the map feature (to load tiles). SWC recommendations work fully offline.
+## Acknowledgment, Developers, and Validators
 
-- Q: Why does the app ask for location permission?
-- A: Only to show your position on the map in the AEZ Explorer. Your location is not stored or shared.
+### Acknowledgment
+The soil and water conservation decision support tool was developed in collaboration with the expertise from the Ministry of Agriculture (MoA) and used many of their resources available (e.g. MOA, 2016 agro-ecological classification, soil and water conservation manuals). We are grateful for this.
 
-- Q: The app crashed—what should I do?
-- A: Restart the app. If the problem continues, contact support via the “About This App” section.
+This tool was developed as part of the CGIAR science program Scaling for Impact (S4I) in East and Southern Africa, which is grateful for the support of CGIAR Trust Fund contributors and Nature-Based Solutions for Inclusive and Sustainable Development (NSSID) funded by Swedish SIDA.
 
-## 🤝 Acknowledgments
+### Developed By
 
-## 🤝 Developed By
-•	Initiated  and conceptualized by 
+*   **Initiated and Conceptualized by:**
+    *   **Amare Haileslassie**, Principal Researcher, Agricultural Water Management and Ecosystem Services, International Water Management Institute (IWMI).
+    *   **Wolde Mekuria**, Senior Researcher, Environment and Development, IWMI.
 
-•	Developed by
-## ✅ Validated by
-•	 ..
-## 📄 License
-This project is licensed under the MIT License – see the LICENSE file for details.
+*   **Developed by:**
+    *   **Kefyalew Sahle**, Lecturer at Hawassa University, Wondo Genet College of Forestry and Natural Resources, Department of Geographic Information Science (GISc). GIS and Mobile Application Developer with specialized expertise in forestry, land use planning, and spatial decision support systems.
+
+### Validated By
+
+*   **Fekede Adane** and **Abinet Mengistu**, soil and water conservation experts, Ministry of Agriculture.
+*   **Tarku Temesegen**, rural development, Farm Africa.
+
+---
+
+### **To Install the App:**
+
+1.  Download the `eLandCare-v1.0.0.apk` file below from the **Assets** section.
+2.  Open the file on your Android device to install it. You may need to allow installations from unknown sources in your phone's settings.
+
