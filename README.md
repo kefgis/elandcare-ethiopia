@@ -4,6 +4,11 @@
 
 eLandCare is a mobile app designed for professionals in agriculture, forestry, and land management. It provides site-specific recommendations for soil and water conservation based on field observations, helping you make smart choices to enhance productivity and protect natural resources.
 
+## 📱 Screenshots
+Welcome Screen | SWC Recommendations Form | Recommendation Bundles
+:---: | :---: | :---:
+<img src="docs/figures/welcome.png" width="250"> | <img src="docs/figures/form.png" width="250"> | <img src="docs/figures/results.png" width="250">
+
 ## 🛠️ Key Features
 
 *   **Streamlined Field Data Collection:** Input data on agro-ecology, land use, slope, soil depth, soil type, drainage, and gully presence.
