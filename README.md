@@ -62,7 +62,7 @@ This tool was developed as part of the CGIAR science program Scaling for Impact 
 
 ## 📂 Downloads
 
-### **[➡️ Download the eLandCare App (APK)](eLandCare-v1.0.0.apk)**
+### **[➡️ Download the eLandCare App (APK)](eLandCare-v1.0.8.apk)**
 *Click the link above to download the installer. You may need to enable "Install from unknown sources" in your phone's settings.*
 
 ### **📚 Field Manuals & Guidelines**
