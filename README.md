@@ -9,10 +9,10 @@ eLandCare is a mobile app designed for professionals in agriculture, forestry, a
 ## 📱 Screenshots
 
 **Welcome Screen**
-<img src="https://raw.githubusercontent.com/kefgis/elandcare-ethiopia/main/docs/figures/welcome2.png" alt="Welcome Screen" width="200">
+<img src="https://raw.githubusercontent.com/kefgis/elandcare-ethiopia/main/docs/figures/welcome2.png" alt="Welcome Screen" width="500">
 
 **SWC Recommendations Form**
-<img src="https://raw.githubusercontent.com/kefgis/elandcare-ethiopia/main/docs/figures/form2.png" alt="Recommendations Form" width="200">
+<img src="https://raw.githubusercontent.com/kefgis/elandcare-ethiopia/main/docs/figures/form2.png" alt="Recommendations Form" width="500">
 
 **Recommendation Bundles**
 <img src="https://raw.githubusercontent.com/kefgis/elandcare-ethiopia/main/docs/figures/results2.png" alt="Results Screen" width="500">
