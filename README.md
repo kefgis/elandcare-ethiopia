@@ -9,13 +9,13 @@ eLandCare is a mobile app designed for professionals in agriculture, forestry, a
 ## 📱 Screenshots
 
 **Welcome Screen**
-<img src="https://raw.githubusercontent.com/kefgis/elandcare-ethiopia/main/docs/figures/welcome.png" alt="Welcome Screen" width="200">
+<img src="https://raw.githubusercontent.com/kefgis/elandcare-ethiopia/main/docs/figures/welcome2.png" alt="Welcome Screen" width="200">
 
 **SWC Recommendations Form**
-<img src="https://raw.githubusercontent.com/kefgis/elandcare-ethiopia/main/docs/figures/form.png" alt="Recommendations Form" width="200">
+<img src="https://raw.githubusercontent.com/kefgis/elandcare-ethiopia/main/docs/figures/form2.png" alt="Recommendations Form" width="200">
 
 **Recommendation Bundles**
-<img src="https://raw.githubusercontent.com/kefgis/elandcare-ethiopia/main/docs/figures/results.png" alt="Results Screen" width="500">
+<img src="https://raw.githubusercontent.com/kefgis/elandcare-ethiopia/main/docs/figures/results2.png" alt="Results Screen" width="500">
 
 ## 🛠️ Key Features
 *   **Streamlined field data collection:** agro-ecology, land use, slope, soil depth, soil type, drainage, and gully presence.
@@ -42,7 +42,7 @@ eLandCare is a mobile app designed for professionals in agriculture, forestry, a
 
 ### 📚 Field Manuals & Guidelines
 
-*   **[➡️ Download: eLandCare User Manual](https://github.com/kefgis/elandcare-ethiopia/releases/download/1.0.8/community_training_presentation_ppt.pdf)**
+*   **[➡️ Download: eLandCare User Manual](https://github.com/kefgis/elandcare-ethiopia/releases/download/1.0.8/eLandCare_User_ManualV2025.pdf)**
     *   This is the official user manual for the eLandCare application.
 
 ---
