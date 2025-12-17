@@ -1,73 +1,68 @@
-# 🌱 Welcome to eLandCare!
+# 🌱 Welcome to eLandCare
+**Your guide to smart choices for soil and water conservation.**
 
-**Your guide to smart soil and water conservation in Ethiopia.**
-
-eLandCare is a mobile app designed for professionals in agriculture, forestry, and land management. It provides site-specific recommendations for soil and water conservation based on field observations, helping you make smart choices to enhance productivity and protect natural resources.
+eLandCare is a mobile app designed for professionals in agriculture, forestry, and land management. It provides site-specific recommendations for soil and water conservation based on field observations. Users can:
+*   Identify appropriate conservation actions using the Ethiopia Soil and Water Conservation field guide.
+*   Compare existing interventions with recommended conservation bundles.
+*   Collaborate with land users (farmers) to enhance productivity and protect natural resources.
 
 ## 📱 Screenshots
 
 **Welcome Screen**
-<img src="docs/figures/welcome.png" alt="Welcome Screen" width="500">
+<img src="https://raw.githubusercontent.com/kefgis/elandcare-ethiopia/main/docs/figures/welcome.png" alt="Welcome Screen" width="200">
 
 **SWC Recommendations Form**
-<img src="docs/figures/form.png" alt="Recommendations Form" width="500">
+<img src="https://raw.githubusercontent.com/kefgis/elandcare-ethiopia/main/docs/figures/form.png" alt="Recommendations Form" width="200">
 
 **Recommendation Bundles**
-<img src="docs/figures/results.png" alt="Results Screen" width="500">
-
+<img src="https://raw.githubusercontent.com/kefgis/elandcare-ethiopia/main/docs/figures/results.png" alt="Results Screen" width="500">
 
 ## 🛠️ Key Features
+*   **Streamlined field data collection:** agro-ecology, land use, slope, soil depth, soil type, drainage, and gully presence.
+*   **Ecological zone identification tool** with interactive map exploration.
+*   **Automated conservation recommendations** based on user-input site conditions.
+*   **Full offline functionality for remote areas.** Once installed, the app works without internet. If connected, maps update with land use, roads, rivers, and other features, and remain available offline.
 
-*   **Streamlined Field Data Collection:** Input data on agro-ecology, land use, slope, soil depth, soil type, drainage, and gully presence.
-*   **Ecological Zone Identification:** Use the interactive map tool to identify the Agro-Ecological Zone of your location.
-*   **Automated Conservation Recommendations:** Receive tailored conservation plans based on your specific site conditions.
-*   **Full Offline Functionality:** The app works entirely offline in remote areas. Map data, once downloaded with an internet connection, remains available for offline use.
-
-## 👥 Who Is It For?
-
+## 👥 Who is it for?
 *   Field workers and development agents in agriculture, forestry, and watershed management.
 *   Planners and researchers using spatial data for decision-making.
 *   Educators and students in natural resources and GIS.
 *   Government staff aligning conservation efforts with local priorities.
 *   Policy makers and program leads seeking data-driven guidance.
 
-## 🔒 Privacy
-
-We are committed to protecting your privacy.
-*   **No Personal Data Collection:** This app does not collect, store, or transmit any personal data.
-*   **Location Data:** Location is used only to identify your Agro-Ecological Zone on the map and is never stored or shared.
-
-## Acknowledgment, Developers, and Validators
-
-### Acknowledgment
-The soil and water conservation decision support tool was developed in collaboration with the expertise from the Ministry of Agriculture (MoA) and used many of their resources available (e.g. MOA, 2016 agro-ecological classification, soil and water conservation manuals). We are grateful for this.
-
-This tool was developed as part of the CGIAR science program Scaling for Impact (S4I) in East and Southern Africa, which is grateful for the support of CGIAR Trust Fund contributors and Nature-Based Solutions for Inclusive and Sustainable Development (NSSID) funded by Swedish SIDA.
-
-### Developed By
-
-*   **Initiated and Conceptualized by:**
-    *   **Amare Haileslassie**, Principal Researcher, Agricultural Water Management and Ecosystem Services, International Water Management Institute (IWMI).
-    *   **Wolde Mekuria**, Senior Researcher, Environment and Development, IWMI.
-
-*   **Developed by:**
-    *   **Kefyalew Sahle**, Lecturer at Hawassa University, Wondo Genet College of Forestry and Natural Resources, Department of Geographic Information Science (GISc). GIS and Mobile Application Developer with specialized expertise in forestry, land use planning, and spatial decision support systems.
-
-### Validated By
-
-*   **Fekede Adane** and **Abinet Mengistu**, soil and water conservation experts, Ministry of Agriculture.
-*   **Tarku Temesegen**, rural development, Farm Africa.
-
 ---
 
 ## 📂 Downloads
+### 📲 Download the eLandCare App
+[➡️ Download eLandCare v1.0.8](https://github.com/kefgis/elandcare-ethiopia/releases/download/1.0.8/eLandCare-v1.0.8.apk)
 
-### **[➡️ Download the eLandCare App (APK)](eLandCare-v1.0.8.apk)**
-*Click the link above to download the installer. You may need to enable "Install from unknown sources" in your phone's settings.*
+*Tip: On Android, you may need to enable "Install from unknown sources" in Settings.*
 
-### **📚 Field Manuals & Guidelines**
 
-*   **[➡️ Download: eLandCare User Manual](eLandCare_User_Manual.pdf)**
-    *   A practical field manual with step-by-step instructions for implementing various measures.
+
+### 📚 Field Manuals & Guidelines
+
+*   **[➡️ Download: eLandCare User Manual](https://github.com/kefgis/elandcare-ethiopia/releases/download/1.0.8/community_training_presentation_ppt.pdf)**
+    *   This is the official user manual for the eLandCare application.
 
 ---
+
+## 🔒 Privacy Policy
+This app **does not collect, store, or transmit any personal data**. All information you enter, such as land slope or soil type, remains exclusively on your device. Your location data is used in real-time to help determine the Agro-Ecological Zone and is **never stored, saved, or shared** with us or any third party.
+
+---
+
+## ✨ Acknowledgment, Developers, and Validators
+
+### Acknowledgment
+The soil and water conservation decision support tool was developed in collaboration with the expertise from the Ministry of Agriculture (MoA) and used many of their resources available as hard copy (e.g. MOA, 2016 agro-ecological classification, soil and water conservation manuals). We are grateful for this.
+
+This tool was developed as part of CGIAR science program Scaling for Impact (S4I) in East and Southern Africa, which is grateful for the support of CGIAR Trust Fund contributors and Nature-Based Solutions for Inclusive and Sustainable Development (NSSID) funded by Swedish SIDA.
+
+### Developed By
+*   **Initiated and Conceptualized by:** Amare Haileslassie (IWMI) and Wolde Mekuria (IWMI).
+*   **Developed by:** Kefyalew Sahle (Hawassa University).
+
+### Validated By
+*   **Fekede Adane** and **Abinet Mengistu** (Ministry of Agriculture).
+*   **Tarku Temesegen** (Farm Africa).
