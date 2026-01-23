@@ -1,12 +1,10 @@
-name: Update Wiki Traffic Badge
+name: Manual Visit Counter
 
 permissions:
-  contents: write   # allow commit/push
+  contents: write
 
 on:
-  schedule:
-    - cron: "*/1 * * * *"  # every minute (for testing)
-  workflow_dispatch:        # manual trigger
+  workflow_dispatch:  # manual trigger only
 
 jobs:
   update:
@@ -19,12 +17,7 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Install dependencies
-        run: pip install requests
-
-      - name: Run update script
-        env:
-          GITHUB_TOKEN: ${{ secrets.MY_PAT }}   # use your PAT secret here
+      - name: Run counter script
         run: python update_wiki_count.py
 
       - name: Commit and push changes
@@ -32,5 +25,5 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git add wiki-count.json
-          git commit -m "Update wiki visit count" || echo "No changes to commit"
+          git commit -m "Increment visit count" || echo "No changes to commit"
           git push
