@@ -24,7 +24,7 @@ jobs:
 
       - name: Run update script
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.MY_PAT }}   # use your PAT secret here
         run: python update_wiki_count.py
 
       - name: Commit and push changes
