@@ -1,5 +1,3 @@
-![Wiki Visits](https://img.shields.io/endpoint?url=https://kefgis.github.io/elandcare-ethiopia/wiki-count.json&cacheSeconds=30)
-
 # 🌱 Welcome to eLandCare
 **Your guide to smart choices for soil and water conservation.**
 
