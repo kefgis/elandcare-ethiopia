@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Wiki Visits Counter</title>
+</head>
+<body>
+  <h2>📊 Wiki Visits</h2>
+  <p>Visits: <span id="counter">loading...</span></p>
+
+  <script src="https://api.countapi.xyz/hit/kefgis/elandcare-ethiopia/wiki?callback=updateCounter"></script>
+  <script>
+    function updateCounter(result) {
+      document.getElementById("counter").innerText = result.value;
+    }
+  </script>
+</body>
+</html>
