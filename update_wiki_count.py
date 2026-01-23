@@ -2,24 +2,16 @@ import requests
 import json
 import os
 
-# Repo details
 OWNER = "kefgis"
 REPO = "elandcare-ethiopia"
-
-# GitHub token (store securely in GitHub Actions secrets)
-TOKEN = os.getenv("GITHUB_TOKEN")
-
-# Output JSON file
+TOKEN = os.getenv("GITHUB_TOKEN")   # GitHub token stored in Actions secrets
 JSON_FILE = "wiki-count.json"
 
 def fetch_traffic():
     url = f"https://api.github.com/repos/{OWNER}/{REPO}/traffic/views"
     headers = {"Authorization": f"token {TOKEN}"}
     response = requests.get(url, headers=headers)
-
-    if response.status_code != 200:
-        raise Exception(f"GitHub API error: {response.status_code}, {response.text}")
-
+    response.raise_for_status()
     data = response.json()
     return data["count"], data["uniques"]
 
@@ -27,7 +19,7 @@ def update_json(count, uniques):
     badge = {
         "schemaVersion": 1,
         "label": "Wiki Visits",
-        "message": str(count),
+        "message": str(count),   # this is what changes!
         "color": "green"
     }
     with open(JSON_FILE, "w") as f:
