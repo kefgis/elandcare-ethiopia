@@ -2,7 +2,8 @@ name: Update Wiki Traffic Badge
 
 on:
   schedule:
-    - cron: "*/1 * * * *" → every 15 minutes.
+   schedule:
+     - cron: "*/1 * * * *"  # every minute
   workflow_dispatch:       # allows manual trigger
 
 jobs:
