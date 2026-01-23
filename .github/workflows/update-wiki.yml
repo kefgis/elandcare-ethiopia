@@ -1,10 +1,12 @@
 name: Update Wiki Traffic Badge
 
+permissions:
+  contents: write   # allow commit/push
+
 on:
   schedule:
-   schedule:
-     - cron: "*/1 * * * *"  # every minute
-  workflow_dispatch:       # allows manual trigger
+    - cron: "*/1 * * * *"  # every minute (for testing)
+  workflow_dispatch:        # manual trigger
 
 jobs:
   update:
@@ -30,5 +32,5 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git add wiki-count.json
-          git commit -m "Update wiki visit count"
+          git commit -m "Update wiki visit count" || echo "No changes to commit"
           git push
