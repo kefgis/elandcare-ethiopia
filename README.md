@@ -1,3 +1,5 @@
+![Visitor Count](https://profile-counter.glitch.me/kefgis/count.svg)
+
 # 🌱 Welcome to eLandCare
 **Your guide to smart choices for soil and water conservation.**
 
