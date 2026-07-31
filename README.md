@@ -44,7 +44,7 @@ eLandCare is a mobile app designed for professionals in agriculture, forestry, a
 *Tip: On Android, you may need to enable "Install from unknown sources" in Settings.*
 
 ### 📚 Field Manuals & Guidelines
-*   **[➡️ Download: eLandCare User Manual](https://github.com/user-attachments/files/30277558/eLandCare.User.Manual2006.pdf)**
+*   **[➡️ Download: eLandCare User Manual][Open User Manual](https://raw.githubusercontent.com/kefgis/elandcare-ethiopia/main/docs/figures/eLandCare%20User%20Manual2006V07.pdf)**
     *   This is the official user manual for the eLandCare application.
   
 ---
