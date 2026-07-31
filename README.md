@@ -39,7 +39,7 @@ eLandCare is a mobile app designed for professionals in agriculture, forestry, a
 
 ## 📂 Downloads
 ### 📲 Download the eLandCare App
-[➡️ Download eLandCare v2.4 Land Capability](https://github.com/kefgis/elandcare-ethiopia/releases/download/V2.2/eLandCare-v2.4.apk)
+[➡️ Download eLandCare v2.4](https://github.com/kefgis/elandcare-ethiopia/releases/download/V2.2/eLandCare-v2.4.apk)
 
 *Tip: On Android, you may need to enable "Install from unknown sources" in Settings.*
 
